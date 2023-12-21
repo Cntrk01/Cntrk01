@@ -1,7 +1,6 @@
 <h1 align="center">Merhaba👋, Ben Mustafa Cantürk Karabulut</h1>
 <h3 align="center">Android Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cntrk01" alt="cntrk01" /></a> </p>
 
 - 🔭 Şuanda Android Developer olarak çalışıyorum **Neon Apps**
 - 🤝 Jetpack Compose hakkında daha çok içerik araştırıyorum

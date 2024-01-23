@@ -2,7 +2,7 @@
 <h3 align="center">Android Developer</h3>
 
 
-- 🔭 Şuanda Android Developer olarak çalışıyorum **Neon Apps**
+- 🔭 Şuanda Android Developer olarak kendimi geliştiriyorum
 - 🤝 Jetpack Compose hakkında daha çok içerik araştırıyorum
 - 🌱 Şuanda Kotlin ve JetpackCompose öğrenmeye devam ediyorum
 - 💬 Kişisel veya Kotlin hakkında sorular sorabilirsiniz
